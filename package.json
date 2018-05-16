@@ -1,0 +1,10 @@
+{
+  "name": "dropdown-collection",
+  "version": "1.0.0",
+  "description": "a collection of dropdown menus",
+  "main": "index.js",
+  "repository": "git@github.com:micahstubbs/dropdown-collection.git",
+  "author": "Micah Stubbs <micah.stubbs@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
